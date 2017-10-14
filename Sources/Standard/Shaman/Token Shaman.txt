@@ -1,0 +1,29 @@
+# Archetype: Token Shaman
+# Author: Vicious Syndicate
+### Standard Token Shaman
+# Class: Shaman
+# Format: Standard
+# Year of the Mammoth
+#
+# 2x (1) Bloodsail Corsair
+# 2x (1) Evolve
+# 2x (1) Fire Fly
+# 1x (1) Patches the Pirate
+# 2x (2) Devolve
+# 2x (2) Flametongue Totem
+# 2x (2) Jade Claws
+# 2x (2) Maelstrom Portal
+# 2x (2) Primalfin Totem
+# 2x (3) Mana Tide Totem
+# 2x (4) Jade Lightning
+# 1x (4) Saronite Chain Gang
+# 2x (5) Bloodlust
+# 2x (5) Doppelgangster
+# 1x (5) Thrall, Deathseer
+# 1x (6) Aya Blackpaw
+# 2x (6) Thing from Below
+#
+AAECAaoIBJG8ApS9ApvLAuvPAg3lB/qqAuvCAva9AvAH0bwCoLYCkcECgQSHvAKTCfm/AvuqAgA=
+#
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
+# https://www.vicioussyndicate.com/deck-library/shaman-decks/token-shaman/standard-token-shaman/
